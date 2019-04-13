@@ -1,0 +1,23 @@
+{
+  "name": "feedinstagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-loader": "^8.0.5",
+    "gulp": "^4.0.0",
+    "gulp-image": "^4.4.1",
+    "gulp-uglifycss": "^1.1.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "vinyl-named": "^1.1.0",
+    "webpack-stream": "^5.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Dias",
+  "license": "ISC"
+}

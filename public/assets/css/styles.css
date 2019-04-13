@@ -1,0 +1,9 @@
+*{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif}
+.feed{margin:0 auto;max-width:80%}.post{display:flex;flex:1}.boxImage{flex:8}.imgPost{max-width:100%}
+.postSide{display:flex;flex:4;flex-direction:column;justify-content:space-between;box-shadow:1px 1px 5px #ccc;border-radius:5px}
+.comments{flex:1;display:flex;flex-direction:column;justify-content:space-between;padding:10px;font-size:12px}
+.postData{padding:10px}.btnLike{background:#fff;border:0}.spanLikes{font-size:14px;font-weight:bold}
+.fas{color:red}.btnSend{background:#fff;border:0}.boxInputComment{display:flex;justify-content:space-between}
+.boxInputComment>input{font-size:12px;border:0;flex:1}.commentUser{font-weight:bold;margin-right:5px}
+.boxAuthor{padding:10px;display:flex}.thumbAuthor{max-height:50px;margin:10px 10px}
+.authorName{line-height:50px;margin:10px 10px}
